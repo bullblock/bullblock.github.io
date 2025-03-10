@@ -1,14 +1,23 @@
-title: Tech Blog
-email: steven.liang@pm.me
-description: >-
-  Steven Liang's Tech Blog, focus on IT New Technology, e.g. CloudStack, Kubernetes, Cloud Native Architect.
+remote_theme				: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin			: "sunrise"
+locale					: "en-US"				
+title					: "Tech Blog"
+title_separator				: "-"
+subtitle				: "A Jekyll theme"
+name					: &name "Steven Liang"
+description				: &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
+url					: https://bullblock.github.io
+baseurl					:
+repository				: "bullblock/bullblock.github.io"
+
+words_per_minute			: 200
+enable_copy_code_button			: true
+
 twitter_username: 
 github_username: bullblock
-minimal_mistakes_skin: sunrise
 search: true
 
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
