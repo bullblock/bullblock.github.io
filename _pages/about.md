@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+classes: wide
 ---
 
 ## Professional Background and Work Experience
