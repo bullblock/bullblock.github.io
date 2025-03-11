@@ -12,6 +12,10 @@ repository				: "bullblock/bullblock.github.io"
 
 words_per_minute			: 200
 enable_copy_code_button			: true
+comments				:
+  provider				: "discourse"
+  discourse				:
+    server				: https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963		
 
 twitter_username: 
 github_username: bullblock
