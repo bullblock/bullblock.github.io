@@ -3,8 +3,8 @@ minimal_mistakes_skin			: "sunrise"
 locale					: "en-US"				
 title					: "Tech Blog"
 title_separator				: "-"
-subtitle				: "Steven Liang's personal tech blog"
-masthead_title				: "Senior Cloud Native Architect"
+subtitle				: "Welcome to my tech world!"
+masthead_title				: 
 name					: &name "Steven Liang"
 description				: &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 url					: https://bullblock.github.io
@@ -14,7 +14,7 @@ repository				: "bullblock/bullblock.github.io"
 words_per_minute			: 200
 enable_copy_code_button			: true
 comments				:
-  provider				: "false"
+  provider				: false
   discourse				:
     server				: https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963		
 
@@ -61,9 +61,6 @@ author:
 
 footer:
   links:
-    - lable                             : "Email"
-      icon                              : "fas fa-fw fa-envelope-square"
-      url                               : "mailto:steven.liang@pm.me"
     - label				: "Linkedin"
       icon				: "fab fa-fw fa-linkedin"
       url				: "https://www.linkedin.com/in/powellcrack"
