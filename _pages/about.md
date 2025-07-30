@@ -19,7 +19,7 @@ Steven Liang is a highly experienced IT professional with over 25 years in the i
 | Senior System Specialist              | NYP, Singapore                 | Nov 2016 - Aug 2017 | Managing NYP infrastructure and HPC administration                                 |
 
 
-Please refer to my [Linkedin](https://www.linkedin.com/in/powerllcrack) page for the details.
+Please refer to my [Linkedin](https://www.linkedin.com/in/powellcrack) page for the details.
 
 ---
 
