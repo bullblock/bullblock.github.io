@@ -42,7 +42,7 @@ plugins:
 author:
   name   				: "Steven Liang"
   avatar 				: "/assets/images/bio-photo.jpg"
-  bio					: "A guy who has his passion in new technology for more than 25 years..."
+  bio					: "A seasoned IT professional with 25 years of deep infrastructure expertise and exceptional troubleshooting capabilities. Holding CKA/CKS certifications, he excels in cloud-native architectures including Kubernetes, Docker, and containerization across AWS, GCP, and Azure platforms. His extensive background spans complex enterprise environments from Unix/Linux administration to modern cloud-native solutions. At Broadcom/VMware, he delivered Level 3 technical support for Tanzu solutions, resolving critical production issues for APJ clients. Steven's proven track record includes architecting scalable infrastructures, managing 24/7 production systems, and leading technical teams through complex migrations and implementations across banking, trading, and enterprise sectors."
   location				: "Singapore"
   email					: "steven.liang@pm.me"
   links:
