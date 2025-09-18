@@ -11,7 +11,7 @@ Steven Liang is a highly experienced IT professional with over 25 years in the i
 
 | Role                                  | Company                        | Period              | Key Responsibilities                                                               |
 |---------------------------------------|--------------------------------|---------------------|------------------------------------------------------------------------------------|
-| Senior Solution Engineer - APJ        | Broadcom, Singapore            | Dec 2023 - Present  | Focusing on VMware Tanzu solutions and Level 3 support                             |
+| Senior Solution Engineer - APJ        | Broadcom, Singapore            | Dec 2023 - Jul 2025 | Focusing on VMware Tanzu solutions and Level 3 support                             |
 | Technical Partner Development Evangelist - APJ | VMware, Singapore     | Jan 2023 - Dec 2023 | Overseeing Tanzu partner training and support in APJ region                        |
 | Senior Solution Engineer - SEAK       | VMware, Singapore              | Apr 2020 - Jan 2023 | Pre-sales support for Tanzu products in SEAK                                       |
 | Senior Cloud Native Architect         | Pivotal, Singapore             | Dec 2019 - Apr 2020 | Supporting Pivotal Cloud Foundry (PCF) and Concourse CI                            |
