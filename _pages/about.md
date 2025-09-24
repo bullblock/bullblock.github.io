@@ -5,7 +5,7 @@ classes: wide
 ---
 
 ## Professional Background and Work Experience
-Steven Liang is a highly experienced IT professional with over 25 years in the industry, specializing in cloud-native architecture, infrastructure, systems, and emerging technologies like Data, Machine Learning, and AI. His recent career highlights a shift to advanced cloud solutions.
+Steven Liang is a highly experienced IT professional with over 27 years in the industry, specializing in cloud-native architecture, infrastructure, systems, and emerging technologies like Data, Machine Learning, and AI. His recent career highlights a shift to advanced cloud solutions.
 
 ---
 
